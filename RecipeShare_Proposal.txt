@@ -1,0 +1,36 @@
+Title: RecipeShare – Discover, Share, and Personalize Your Culinary Journey
+
+Overview:
+RecipeShare is a web application designed for food enthusiasts to explore, share, and manage cooking recipes. The platform encourages community engagement and culinary creativity through a rich set of features and a user-friendly interface.
+
+Key Features:
+
+1. Public Landing Page:
+   - Browse a collection of publicly shared recipes.
+   - Share recipes via social media or a generated link.
+   - Search and filter by cuisine, prep time, or dietary needs.
+
+2. User Authentication:
+   - Users must log in or register using a Blogger (Google) account to manage recipes.
+   - Authenticated users access a personal dashboard showing their uploaded recipes.
+
+3. Recipe Management (Authenticated Users):
+   - Add new recipes with images and tags.
+   - Edit or delete personal recipes.
+   - Organize recipes with categories or filters.
+
+4. Additional Features (Planned):
+   - Chatbot Assistant: Offers tips on healthy eating, trending recipes, and cooking advice.
+   - QR Code Integration: Scan QR codes to access curated collections or downloadable cookbooks.
+
+Tech Stack:
+- Frontend: React, Tailwind CSS, Framer Motion
+- Backend: Node.js, Express.js, MongoDB
+- Authentication: Google OAuth (Blogger account)
+- Optional: Cloudinary for image hosting, Socket.IO for real-time updates
+
+Target Users:
+- Home cooks, food bloggers, and anyone looking to share or discover recipes online.
+
+Goal:
+To create a vibrant, easy-to-use platform that makes cooking more connected, interactive, and fun.
